@@ -1,4 +1,5 @@
-![title](doc/title.pdf)
+![title](doc/title.png)
+
 Kun Liu*, Yao Fu*, Chuanqi Tan, Mosha Chen, Ningyu Zhang, Songfang Huang, Sheng Gao. Noisy-Labeled NER with Confidence Estimation. NAACL 2021. [[arxiv](https://arxiv.org/abs/2104.04318)]
 
 ## Requirements

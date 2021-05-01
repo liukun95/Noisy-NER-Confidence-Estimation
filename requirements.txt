@@ -1,0 +1,9 @@
+numpy==1.16.2
+tqdm==4.31.1
+termcolor==1.1.0
+overrides==2.5
+matplotlib==3.0.3
+scipy==1.2.1
+pytorch-transformers==1.1.0
+torch==1.4.0
+tensorboardX==2.2
